@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+
+.nft {
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.nft_card {
+    margin: 0 auto;
+    width: 320px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 15px;
+    box-shadow: 30px 0px 40px rgba(0, 0, 0, 0.1),
+        -30px 0px 40px rgba(0, 0, 0, 0.1);
+}
+
+.nft_preview {
+    margin: 0 1em;
+    padding: 10px;
+    line-height: 51px;
+}
+
+
+.nft_overlay {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    cursor: pointer;
+}
+
+.banner {
+    min-width: 90%;
+    border-radius: 10px;
+}
+
+.overlay {
+    background-color: aqua;
+    opacity: 40%;
+    position: absolute;
+    top: 0;
+    bottom: 2px;
+    left: 0;
+    right: 0;
+    border-radius: 1rem;
+    display: none;
+}
+
+.view {
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    transform: translate(200%, -50%);
+    display: none;
+}
+
+.nft_overlay:hover .overlay,
+.nft_overlay:hover .view {
+    display: block;
+}
+
+
+
+.nft_text h1 {
+    color: aliceblue;
+    font-size: 25px;
+    padding-top: 19px;
+    padding-bottom: 22px;
+}
+
+.title {
+    color: rgb(138, 139, 139);
+    line-height: 30px;
+    padding-right: 10px;
+}
+
+.nft_font_text {
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 0.1px;
+    font-size: 18px;
+}
+
+.nft_text h1:hover {
+    color: aqua;
+}
+
+
+.nft_font1 {
+    color: rgb(135, 136, 138);
+
+}
+
+samp {
+    padding: 7px;
+    text-align: center;
+}
+
+span:hover {
+    color: aqua;
+}
+
+.nft_images img {
+    width: 37px;
+    height: auto;
+    float: left;
+    border: 1px solid white;
+    border-radius: 20px;
+    margin-top: 17px;
+}
+
+.nft_tattil p {
+    padding-top: 10px;
+    padding-left: 51px;
+    font-size: 16px;
+    color: rgb(135, 136, 138);
+}
+
+span {
+    color: aliceblue;
+}
