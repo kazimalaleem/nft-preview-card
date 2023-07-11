@@ -37,10 +37,11 @@
     cursor: pointer;
 }
 
-.banner {
-    min-width: 90%;
-    border-radius: 10px;
+.nft_overlay img {
+    border-radius: 18px;
 }
+
+
 
 .overlay {
     background-color: aqua;
@@ -58,7 +59,7 @@
     position: absolute;
     top: 50%;
     bottom: 50%;
-    transform: translate(200%, -50%);
+    transform: translate(230%, -50%);
     display: none;
 }
 
@@ -69,62 +70,83 @@
 
 
 
-.nft_text h1 {
+.nft_content h1 {
     color: aliceblue;
     font-size: 25px;
     padding-top: 19px;
     padding-bottom: 22px;
+    cursor: pointer;
+
 }
 
-.title {
-    color: rgb(138, 139, 139);
-    line-height: 30px;
-    padding-right: 10px;
-}
-
-.nft_font_text {
-    color: aqua;
-    display: flex;
-    justify-content: space-between;
-    letter-spacing: 0.1px;
-    font-size: 18px;
-}
-
-.nft_text h1:hover {
+.nft_content h1:hover {
     color: aqua;
 }
 
-
-.nft_font1 {
+.nft_content p {
+    line-height: 22px;
+    padding-bottom: 16px;
     color: rgb(135, 136, 138);
 
 }
 
-samp {
-    padding: 7px;
+.nft_details {
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 0.1px;
     text-align: center;
+    border-bottom: 1px solid rgb(135, 136, 138);
+    cursor: pointer;
+
+
 }
 
-span:hover {
+.nfh_eht--amount span {
+    padding: 6px;
+    font-size: 16px;
     color: aqua;
 }
 
-.nft_images img {
+.nft_clock span {
+    padding: 2px;
+    font-size: 17px;
+    color: rgb(135, 136, 138);
+
+}
+
+.nft_clock span:hover {
+    color: aqua;
+}
+
+.nfh_eht--amount span:hover {
+    color: aqua;
+}
+
+.nft_user--profile img {
     width: 37px;
     height: auto;
     float: left;
     border: 1px solid white;
     border-radius: 20px;
     margin-top: 17px;
+    cursor: pointer;
+
 }
 
-.nft_tattil p {
+.nft_user--profile p {
     padding-top: 10px;
-    padding-left: 51px;
+    padding-left: 58px;
     font-size: 16px;
     color: rgb(135, 136, 138);
+    cursor: pointer;
+
 }
 
 span {
     color: aliceblue;
+}
+
+span:hover {
+    color: aqua;
 }
