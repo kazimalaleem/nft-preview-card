@@ -1,51 +1,53 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Order summary card
 
-![Design preview for the QR code component coding challenge](../nft-preview-card-component-main/images/card4.png)
+![Design preview for the Order summary card coding challenge](../nft-preview-card-component-main/images/my-preview.png)
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io/challenges) challenges help you improve your coding skills by building realistic projects.
+[Frontend Mentor](file:///G:/kazim%20file/kazim%20floder/challenger/challenger-3_origin/indix.html) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 ## The challenge
 
-Your challenge is to build out this Equilibrium component and get it looking as close to the design as possible.
+Your challenge is to build out this order summary card component and get it looking as close to the design as possible.
 
-You can use any tools like a HTML/CSS tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+
+Your users should be able tools:
+
+- See hover states for interactive elements
 
 Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io) and ask questions in the **#help** channel.
 
-## Where to find every think in this coad
+## Where to find everything
 
-Your task is Equilibrium and than you build this is projact task and bhind you 'design' and than your give to both design in mobile and desktop version of the desing in your community.
+Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
 
-The designs are JPGs and than given this both 'images' than use the HTML this images and tha structure design and used the top images in Equilibrium .
-
-If ther are CSS are your in the designs in this tamplated sone use to code display flex box-shodaw and drak color using in this code.
+The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
 
 If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://github.com/kazimalaleem).
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
+There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
 
 ## Building your project
 
-Feel free to used and than click this wedside(https://www.frontendmentor.io/challenges) than use to free challenges
+Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-1. initialize you project uplode in [Github]  
-(https://github.com/). new repository submit and uplode a Github
+1. Initialize your project as a public repository on [GitHub](https://www.frontendmentor.io/challenges). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://github.com/).
 2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
 3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
 4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size` some using `margin`.
+5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
 ## Deploying your project
 
-As mentioned above, there are many ways to host your project for free. Our recommend hosts your many project:
+As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
 - [GitHub Pages](https://github.com/kazimalaleem)
 - [Netlify](https://www.netlify.com/)
@@ -71,8 +73,13 @@ Remember, if you're looking for feedback on your solution, be sure to ask questi
 
 There are multiple places you can share your solution:
 
-1. Sharing my problem
-2. then you to more code and the than hover and some center you code and some problem are you to batter for skills
+1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
+2. Share your solution on other social channels like LinkedIn.
+3. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are   there are commit joint.
+
+We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
+
+The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
 
 ## Got feedback for us?
 
